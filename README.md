@@ -10,7 +10,7 @@
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-    <a href="https://GitHub.com/TheHamkerCat">
+    <a href="https://GitHub.com/AbhayNarayanSingh">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
     <img src="https://img.shields.io/github/license/thehamkercat/WilliamButcherBot?style=for-the-badge&logo=appveyor" alt="LICENSE">
@@ -48,7 +48,7 @@
 </h2>
 
 ```console
-thehamkercat@arch:~$ git clone https://github.com/thehamkercat/WilliamButcherBot
+thehamkercat@arch:~$ git clone https://github.com/AbhayNarayanSingh123/WilliamButcherBot
 thehamkercat@arch:~$ cd WilliamButcherBot
 thehamkercat@arch:~$ pip3 install -U -r requirements.txt
 thehamkercat@arch:~$ cp sample_config.py config.py
@@ -75,7 +75,7 @@ thehamkercat@arch:~$ python3 -m wbb
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/thehamkercat/WilliamButcherBot">
+        <a href="https://heroku.com/deploy?template=https://github.com/AbhayNarayanSingh123/WilliamButcherBot">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
@@ -86,7 +86,7 @@ thehamkercat@arch:~$ python3 -m wbb
 </h3>
 
 ```console
-thehamkercat@arch:~$ git clone https://github.com/thehamkercat/WilliamButcherBot
+thehamkercat@arch:~$ git clone https://github.com/AbhayNarayanSingh123/WilliamButcherBot
 thehamkercat@arch:~$ cd WilliamButcherBot
 thehamkercat@arch:~$ pip3 install pyrogram TgCrypto
 thehamkercat@arch:~$ python3 str_gen.py
@@ -97,7 +97,7 @@ thehamkercat@arch:~$ python3 str_gen.py
 </h1>
 
 ```console
-thehamkercat@arch:~$ git clone https://github.com/thehamkercat/WilliamButcherBot
+thehamkercat@arch:~$ git clone https://github.com/AbhayNarayanSingh123/WilliamButcherBot
 thehamkercat@arch:~$ cd WilliamButcherBot
 thehamkercat@arch:~$ cp sample_config.env config.env
 ```
